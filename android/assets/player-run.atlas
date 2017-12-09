@@ -1,0 +1,68 @@
+player-run.png
+size: 897, 162
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+run
+  rotate: false
+  xy: 600, 1
+  size: 115, 150
+  orig: 115, 150
+  offset: 0, 0
+  index: 1
+run
+  rotate: false
+  xy: 717, 1
+  size: 89, 149
+  orig: 89, 153
+  offset: 0, 0
+  index: 2
+run
+  rotate: false
+  xy: 333, 1
+  size: 127, 152
+  orig: 127, 152
+  offset: 0, 0
+  index: 3
+run
+  rotate: false
+  xy: 206, 1
+  size: 125, 153
+  orig: 125, 153
+  offset: 0, 0
+  index: 4
+run
+  rotate: false
+  xy: 1, 1
+  size: 78, 160
+  orig: 78, 160
+  offset: 0, 0
+  index: 5
+run
+  rotate: false
+  xy: 81, 1
+  size: 123, 157
+  orig: 123, 157
+  offset: 0, 0
+  index: 6
+run
+  rotate: false
+  xy: 808, 1
+  size: 88, 148
+  orig: 88, 148
+  offset: 0, 0
+  index: 7
+run
+  rotate: false
+  xy: 206, 1
+  size: 125, 153
+  orig: 125, 153
+  offset: 0, 0
+  index: 8
+fat
+  rotate: false
+  xy: 462, 1
+  size: 136, 150
+  orig: 150, 150
+  offset: 7, 0
+  index: 1
